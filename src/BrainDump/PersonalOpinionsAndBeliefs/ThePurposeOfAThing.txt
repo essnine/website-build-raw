@@ -1,0 +1,23 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2023-04-29T20:40:23+05:30
+
+====== ThePurposeOfAThing ======
+Created Saturday 29 April 2023
+
+The purpose of a thing is what it does.
+
+That's a funny little thought I came across some time ago. I think I read it somewhere, hold on, I'll look it up.
+
+Ah, okay, I misremembered the exact line. It's supposed to be: //[[https://en.wikipedia.org/wiki/The_purpose_of_a_system_is_what_it_does|The purpose of a system is what it does.]]// How about that? You'd think it makes more sense now, in a sense it does. But what does a system mean? How many things do we interact with, while subconsciously modelling their behaviours? How many of the things we see in our daily life are not mere things but systems unto themselves?
+
+I don't imagine there's much except some kinds of food that can be considered non-system entities. Food is the output of a recipe, and contains components that our taste buds and digestive systems interact with, so maybe we'd think they're inputs into a system, but the act of food being dynamically altered by temperature and humidity and the act of interacting with it makes it a little fuzzy again, no?
+
+Never mind food. I suppose it's nice to be in a place where that's a sentence we can use.
+
+What else do we tend to think about as non-systems, or discrete parts of a system? A system is a state of thought. A shirt may be a discrete component in a dressing system, but on a humid day when the sun's out and your eyeballs are sweating, it's now an active (sort of) extension for the evaporative-cooling/moisture-dispersal system that your skin implements by way of perspiration. So there's multiple systems at play, and a given shirt will fit into them in distinctly different capacities and efficiencies depending on the nature of the system. A lightly-woven summer shirt may not be what you wear in the middle of the winter, and thickly woven woolen shirts may not be the best choice for 48decC summers when you're about to spend an afternoon on the go.
+
+Anyway, simple analogies over. It's easier to talk about food or shirts because silicon valley hasn't had its way with them (successfully) (yet). But let's look at all the things that have been affected with our systems-glasses on.
+
+01-05-2023 07:40:27 - Update:
+It's been a bit busier since I started writing this, but I think I might as well put it up, as incentive to trace this line of thought to its conclusion, if nothing else.

@@ -1,0 +1,7 @@
+# background
+Created Sunday 11 September 2022
+
+I started my *career* (ridiculous notion, me having a career, it's such an odd word) working in a small startup, as maybe the third coder in the team, building a backend for enterprise chatbots. That venture sadly never took off, and I quit my job two years and five months in, deeply burnt-out and not in a very healthy frame of mind. Nearly a year after my resignation, the startup ceased operations, and the component I'd worked on never really saw light of day. It took a while for me to make peace with that particular part of my professional life, but I think I am okay now.
+
+I started working at smartSense Solutions in mid-February, 2020. I was brought on as a Python programmer, working on building some CRUD APIs in Django.
+

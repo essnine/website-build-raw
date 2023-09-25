@@ -1,0 +1,10 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2022-10-29T00:14:29+05:30
+
+====== Website ======
+Created Saturday 29 October 2022
+
+This is my website. It's nothing professional, or nice. But it is mine. I'll put up more here, eventually. For now, I think, this is fine. I use [[http://github.com/zim-desktop-wiki/zim-desktop-wiki|zim-desktop-wiki]] to maintain the content for this site as a notebook, and I periodically publish my changes by exporting the notebook's contents as a static website, served by nginx using the nginx alpine Docker image as a base for an instance running on [[https://fly.io|fly.io]]. I think the setup for this is pretty nice and I love working with the CLI tool for fly on my local for quickly getting changes deployed. It's great seeing how insanely smooth running my own simple website on the internet can be.
+
+I might eventually move this to a flask application, or just setup a subdomain for the application I'm working on. It's a bit of a chatbot. Of sorts.

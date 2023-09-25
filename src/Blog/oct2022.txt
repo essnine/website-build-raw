@@ -1,0 +1,18 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2022-10-29T00:34:04+05:30
+
+====== oct2022 ======
+Created Saturday 29 October 2022
+
+__29-10-2022__
+Been a hectic month. I updated the website some more, and I am currently working on a thing with Ashrith but not doing very well with it. So, yeah. Just doing stuff.
+
+I did a couple of workshops as part of a team from work over the past few weeks too. BVM in Anand and VIIT in Pune. AI/ML and DL, with my portion of the workshop being APIs, applications, practical considerations, and crowd work. So yeah, that was fun! Also very exhausting.
+
+This week has been Diwali week, vacation time. It's been relaxation for the most part, although I do not feel particularly relaxed. Just getting by for now.
+
+Let's see what the future holds, I guess. Going to try and work properly on the little project that I've taken up with Ashrith.
+
+End of line.
+

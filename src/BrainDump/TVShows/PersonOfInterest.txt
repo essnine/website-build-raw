@@ -1,0 +1,47 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2023-05-18T23:01:23+05:30
+
+====== PersonOfInterest ======
+Created Sunday 11 September 2022
+
+Oh boy. I've had this show with me since maybe 2016 or 2019, depending on who I got it from.
+
+Update - 17-05-2023:
+It's hard to summarize what's cool about Person of Interest in a super-condensed bullet-form format. I think the best words I've found so far about what makes it so good was from Peter Watts' [[https://www.rifters.com/crawl/?p=5817|review]] of it on his blog.
+
+	//What it is, though, is perhaps the most consistently well-thought-out and rewarding exploration of artificial intelligence I’ve ever seen.//
+	//*//
+	//That realization kind of sneaks up on you. Those clever little God’s-eye-view clues in the establishing shots are easy to miss at first. And the whole set-up seems kinda wonky right out of the gate: the Machine hands out Social Security numbers? Over pay phones? That’s how it communicates that’s someone’s about to die in the next 24 hours? It couldn’t ration out a few of those myriad details it knows, to help our heroes along?//
+
+Can't bullet-point this shit. You look at how contrived the story is, and you deal in a property that you don't usually trade when it comes to TV shows: you have a little faith. Sure, the story isn't very compelling early on. Sure, everything besides Finch's accent is bog-standard for episode-by-episode crime-of-the-day vigilante series. And the show's reluctance to even describe the world it's set in gets a little dull a little quickly. There's a reason why the //skippable episodes// post exists on the show's subreddit.
+
+But the show leaves so many little breadcrumbs for you to pick up and munch upon that you can't help but give it a go. What's with the reticle colours? Why are we seeing sunsets from this POV, where we see the surveillance system overlays? What's the deal with the stylized flashbacks? Just hold on to those. Grit your teeth if you must and power through season one, although honestly, the show is entertaining enough in the way some of the characters play off of each other that you probably won't need to. Get past the season one finale. Notice the hint of a bookend between the pilot and the finale? Yeah. Okay. We're shifting gears now.
+
+Season two. Baby machine. Proud dadmin Finch. And half an hour in? //"You created an intelligence. A life. Then you ripped out its voice, locked it in a cage, and handed it over..."//
+
+I don't want to say more. Who am I kidding? I want to. I want to grab all the people I know who can makpe a half-decent effort at separating wheat from chaff, drag them by the hair and sit with them and watch this show end-to-end, repeating my favorite moments' favorite lines that I've memorised basically by exercising spaced repitition. I want to make sure any undergraduate compsci students I may have some influence over will go and watch this show and then let me quiz them. I want the ideas that are woven through the show to permeate these people's brains, so that they understand at least one new facet of (even if far-fetched) superintelligent AI possibilites or mass surveillance systems or the word //heuristics// or the notion of a well-told simple story with characters who possess a moral backbone and well-written backgrounds or just how much the notion of what a computer can do has grown since ARPAnet (there are two episodes that reference ARPAnet, one directly) was a thing. I remember reading about the Cap'n Crunch whistle phreak when I was in tenth grade, can you imagine what it felt like to watch a (modern!) TV show make that reference, use it in a prank context, and have it not be the coolest part of the episode?!?! Can you fucking imagine that?
+
+Insane. I'll continue a little more on this tomorrow, I almost fell asleep sitting on this upper bunk.
+---*---
+
+Update - 18-05-2023
+I'd be a fool not to mention the soundtrack. It is excellent, consistently so. The score is sublime. And I think it loops around to maybe being something that highlights a quality about the show as (somewhat) hard sci-fi: it doesn't read like it's hard.
+
+Maybe this isn't the best comparison to draw, but it's what I have today so I'll go with it. Over the last few months, I have read and re-read Alastair Reynolds' Revelation Space trilogy, and fallen in love with it. The universe, the stories it explores, the depiction of an unrelenting existential threat to the human species, the details about the mechanics of some very fascinating, stellar-scale constructs, all of it, so fucking delicious. Can't help but sit in that puddle of exposition and play around like I'm five years old and sitting in the middle of the street while it's been raining for five hours. Love it.
+
+That feels like hard sci-fi. It feels like there's a distinct effort being made to communicate the sheer awesomeness of the universe in the story, and you better appreciate it. A //star singer//. A construct that uses a star's resonant vibration frequency to make it //sing//, turning it into a fucking flamethrower that can douse entire planets in stellar plasma. Insane. Mind you, the writer is an astrophysicist. He worked for the ESA. You are going to be using up brain cells trying to comprehend some of this stuff. Text is not so fucking transient that you'll skip past the elaborate piece of prose describing that, thinking //"Nah, I think I'm fine"//. Not that I'm complaining. I'll read it again, too. The whole series. [[..\PersonOfInterest\goofy-trial.gif|I mean it.]] Totally worth it.
+
+Similarly, but not quite entirely, in Person of Interest, let's see. A particularly tense bit of plot has our protagonist guy go steal a canister of [[https://hackaday.com/2015/07/21/why-is-there-liquid-nitrogen-on-the-street-corner/#more-162570|liquid nitrogen that's ziptied to a telephone tower]] and use it to douse... one second, let's make sure we have this right... a rack of [[https://en.wikipedia.org/wiki/PlayStation_3#Hardware|Sony PS3]]'s? The thiccboi models? That are connected over a network of some kind? Hold on one second... ah, a [[https://en.wikipedia.org/wiki/PlayStation_3_cluster|cluster?]] [[https://en.wikipedia.org/wiki/PlayStation_3_technical_specifications|Cell architecture?]] Can be formatted to [[https://en.wikipedia.org/wiki/OtherOS|run Linux?]] We're just throwing words around now, [[https://en.wikipedia.org/wiki/Cell_(processor)#Supercomputing|right?]] There's no way that's a thing, [[https://en.wikipedia.org/wiki/Cell_(processor)#Distributed_computing|right?]]
+
+Okay, that was a bit of a spoiler, but hey, that episode is like eight years old, and there's actually a few misses and a little bit of poorly written jargon that goes with the particular scene I'm talking about, but still! Come the fuck on! You don't need to be a PhD in astrophysics to understand the stuff I just wrote, studying physics in high school ought to be more than enough to understand how cool it is, and for a mainstream show to get away with this.
+
+I'm not comparing the two very different stories and the two universes. Person of Interest and Revelation Space have only the genre tag of hard sci-fi in common, the stories are worlds apart. But science fiction, when it's good science fiction, tries to convey great ideas. You know, Great Ideas, in title case. Proper great ideas. And maybe while the accuracy of running a surveillance AI on a cluster of gaming consoles is wild, we don't need to delve that far into the specifics and worry. The exploration of AGI and how we design compute is a very new field of study, and while I won't make the bold move of comparing it to space exploration in terms of all the possibilities out there (as much as I'd like to do that), the notion that //a machine// like the one in the show exists, that ramps up my suspension of disbelief very easily.
+
+I cheated a little bit there. I went right into the last season. But the bits and pieces of what we're dealing with are right there from the very first episode, and for someone who has to wrangle software on their day job, it has so many little bits that delight. The first time we see the world how the machine sees it, we see it correct text it generates from speech in audio signals it's processing, //on the fly,// like so: **Listening with a million ~~years~~ ears**. It's one of many text streams we see on the screen, and this one merits that correction because the speaker has a strong accent, and the machine (likely) makes that inference based on the context of the statement.
+
+Look, that should be cool to you. Because this is 2011, this is a TV show that got crazy good reception for this pilot episode, and it fooled everyone into not noticing science fiction until it decided to Tokyo Drift into trolley problems and Roko's Basilisk arguments every other episode. That sleight of hand, and the quality of the arguments, all in one package? Come the fuck on!
+
+Gonna stop now because it's bedtime I have to be up in six and a half hours to go catch a bus. But this ain't over yet.
+
+

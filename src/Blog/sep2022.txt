@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2022-09-25T22:23:44+05:30
+
+====== sep2022 ======
+Created Sunday 25 September 2022
+
+25-09-2022
+I'm learning Rust. Or trying to, anyway, after a lot of time that went by in a little less motivated frame of mind. But hey, I'm staying alive. And smiling for the most part. I think it counts!
+
+I think I'll have to keep at this. There's not much else these days that feels like it's worth keeping at, anyway.

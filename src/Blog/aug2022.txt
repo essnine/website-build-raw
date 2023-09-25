@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2022-09-01T23:49:46+05:30
+
+====== aug2022 ======
+Created Thursday 01 September 2022
+
+01-09-2022
+I'm moving the website to statically generated content out of Zim wiki.

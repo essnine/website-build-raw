@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2022-09-01T23:44:50+05:30
+
+====== Blog ======
+Created Thursday 01 September 2022
+
+Thoughts and ramblings. Sometime soon, sometime later. Time is an illusion anyway. (Lunchtime doubly so.)
+
+Present stuff:
+[[+jan2022]]
+[[+jul2022]]
+[[+aug2022]]
+[[+sep2022]]
+[[+oct2022]]

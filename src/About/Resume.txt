@@ -1,0 +1,52 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2023-05-14T21:01:27+05:30
+
+====== Suraj Zala - Resume ======
+Updated May 2023
+
+===== Right now, I work at: =====
+	**smartSense Solutions**, as a Software Engineer, from //February 2021 - Present//
+==== What I've worked on so far: ====
+	* BlockArmour (Feb 2021 - March 2021)
+		We built a RESTful Django service for maintaining and verifying device posture profiles. I also worked on a FastAPI service for maintaining IAM logic, using Redis for improving checking performance.
+
+		Working with FastAPI was also my first time dealing with explicit asynchronous programming in Python and its many gotchas, as well as clarifying my understanding of RESTful API design.
+		
+	* CapitalFloat (April 2021 - October 2021)
+		I worked on maintaining and extending their in-house custom rule engine for processing customer loan/line applications, built with Django and FastAPI. This involved working closely with product/policy team to help implement and rigorously test new products, implementing new logic for calculating financial details for customers and also porting business logic from old, in-code implementations of product/policy to new, custom rule engine policies. The team maintained a heavy focus on regression testing and clear communication, as well as blameless postmortems and 5 Why's for root cause analyses, which was a great learning experience for me.
+		
+		My strongest takeaway from this project was on the importance of regression testing in general, but also when it comes to live customer information and especially with real-time services that dealt with financial transactions. Rolling out a new policy involved steady communication with several stakeholders in the policy design process, and the importance of the work meant that questions were encouraged and rigour was expected.
+		
+	* Recobo/CoSSBot (November 2021-Present):
+		I work on the team responsible for maintaining Recobo's document and product search platform, adding new functionality and bringing improvements to the system architecture. There are several functions and features the ML-based document parsing allows, which helped our team bring automation to several business processes. 
+
+		For instance, parsing product information from regulatory documents and sorting extracted data into buckets that were previously populated manually, or building a search that combined multiple data sources with different data schemas into a single backend API that standardises the format for the product data, plugs into an NLP-based natural language search model, and integrates with commerce-oriented APIs where configured, on a per-item basis.
+
+		I worked on several functionalities in this project, the most involved of which was an automation system for setting up search indexes, which was previously manually performed. The overall process for an index which may have taken a week to prepare from end to end was brought down to a few hours. Implementing this brought me into a better (but not yet perfect) understanding of Kubernetes and the Argo Workflows framework, as well as insight into where bottlenecks may form in systems that are not designed with automation in mind.
+
+		A major takeaway from the work I performed on this project is aligning between technical concerns and customer needs, since outlining deliverability and user experience baselines are highlighted strongly, testing each team members ability to balance engineering concerns directly against customer expectations in a variety of cases.
+
+===== Previously, I used to work at: =====
+	**Rheo.bot** as a Software Developer from //July 2018 - November 2020//
+	
+==== In this role ====
+	I built a SocketIO-based customer service chat back-end server using Flask. This was part of an enterprise chatbot solution that plugged into Facebook Pages, Facebook Messenger and Twitter DMs, and could be embedded into a website with relative ease. The team worked on Flask and Django, with MongoDB and Postgres. 
+
+	Among the functionality I implemented was login using Google and Facebook OAuth2 Authentication services for chat users. (Although if you pointed a gun to my head now and asked me to explain how OAuth2's token exchange works, I'd tell you to pull the trigger. Sorry.) 
+
+	I also implemented an NLP management wrapper library around Google's DialogFlow's REST APIs, building out functionality that mimicked DialogFlow's own and extended it. This was fun, but even more of my hair started graying, so I don't know. Along with all that, I also worked on setting up a custom chat analytics logging system for the chat back-end described above, and syncing it with Google's Analytics API.
+
+	All in all, the solution we built had:
+		* basic chatbot abilities, like small talk and simple conversation trees.
+		* integrations with external APIs to facilitate calendar appointment setups and reservation systems.
+		* human chat takeover and handover functions, with multiple takeovers, selectable by a particular chatbot's admin.
+		* building custom conversation trees with a simple UI and linking to notes for lead generation possibilities.
+		* per-chat search.
+		* cross-platform chatbot user sync, i.e. a user who may have first connected with a chatbot on Facebook Messenger could connect to the same chatbot loaded in the customer's website, and conversations from Messenger would be present for the user. Similarly, an admin viewing the conversation for such a user in the admin console could see the chatbot user's platform, as well as any platforms that user may have previously joined from.
+		* all chats across all sessions were synchronised.
+
+	This was a fun two and a half years, I won't lie. Lots of learning, lots of stumbling, but a crazy amount of ownership. Maybe even too much. I think there's more stuff I may have repressed out of trauma. If you ever happen to ask me, I'd be happy to talk(rant) to you about it.
+
+Anyway. That's it so far. If you think this was a fun read, or think it'd be fun to work on something together, do feel free to [[mailto:hello@essnine.dev|ping]] me.
+(I thought about bullet-point-ing this, but it didn't do much good for NASA so maybe there's a lesson there. _{(I'm kidding, I tend to prefer the narrative voice for these matters, makes the reading more meaty.)})

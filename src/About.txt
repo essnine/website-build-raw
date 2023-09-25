@@ -1,0 +1,29 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2022-10-29T00:15:34+05:30
+
+====== About ======
+Created Saturday 29 October 2022
+
+=> Social Media?
+	Uh. No, not much.
+	I used to [[https://twitter.com/essninedotdev|tweet]] sometimes, but honestly, I kept on ending up doomscrolling on my phone for hours, so I deleted the account.
+	I have a love-hate relationship with Instagram: many of the people I love are on IG, and I hate that they never reply anywhere except on IG. And using the app for a few days makes me feel like I'm trapped in a Hieronymus Bosch painting, so there's that. I'm not (currently) using it actively.
+	LinkedIn feels the same, except everyone isn't as perceptibly happy, and the what-aboutisms and so on go harder there. LinkedIn feels like Microsoft tried to capture 2011-facebook's magic and fell short on the time-travel dial by about seven years. 
+	
+	So here we are. There's a few more sites I use, but that's no good adding them here right now. Maybe in a little time. I might just end up not reachable on social media at all.
+	
+	You can email me at hello /[/at/]/ essnine.dev, so do feel free to write to me!
+
+=> Resume:
+	I had the bright idea to just use Zim to generate a resume page, saving me the trouble of formatting one, and letting your web browser handle the matter of what to render and how to print it out. I can do some fun things with it later, like write a generation script and plug it in somehow, but hey, baby steps first.
+	So anyway. [[+Resume]]
+
+=> This website?
+	I've sort of covered the basics [[:BrainDump:Website|here]]. I am weighing my options on making it more... social? I'm not sure. Like using wordpress or something. But it's all very scary, and this is very freeform, and I don't expect I'll ever be written back to anyway. So, yeah. Here we are. I mean, the link in the first sentence in this paragraph, that's where we are.
+
+=> Educational background?
+	A barely-scraped-through bachelor-of-engineering degree in information technology, with a college attendance running 2014-18, but actual completion of degree in early 2021. I had bills to pay that a fourier transform wouldn't have helped with, sorry.
+
+=> Hobbies?
+	Umm, reading, a lot of reading. A little running. Picking people's brains on weird and worrying thoughts. A little Microsoft Flight Simulator X. Motorcycling, but no time for that lately.

@@ -1,0 +1,23 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2022-09-01T01:52:34+05:30
+
+====== Home ======
+Created Thursday 01 September 2022
+
+Hi! Suraj here. I'm a software engineer, of sorts, still learning the ropes. I work in Python, working on backend services of different types like HTTP APIs and chatbots and wrapper APIs and websockets and plumbing for automation and working with microservices and profiling performance and other odds and ends like that. I've been working for a few years, since mid-2018. I liked what I've been working on, mostly.
+
+I've been into computers for longer, but I don't think I really gave any thought to working in software full-time until I was a couple of semesters into my undergraduate degree. I guess what I am really into is a sense of futurism? But also trying to understand how we got to where we are, in all senses, optimistic and otherwise. I think that's what I'd call a common thread between whatever I'd had on my mind throughout my life so far.
+
+* Stuff on this site:
+	* [[Blog]]
+	* [[Garden]]
+	* [[BrainDump]]
+	* [[:About|About]]
+
+* Why is this such a barebones site?
+	* [[.\f39001.png|revenge]]
+* Revenge?
+	* [[https://www.youtube.com/watch?v=D_bE7u70K0c|Revenge]].
+
+Sometimes I do wonder if I'm being too naive for being on the internet, despite having been on the internet for a healthy amount of time.

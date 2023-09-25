@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2022-09-05T01:35:02+05:30
+
+====== InterestingWordsIForgetALot ======
+Created Monday 05 September 2022
+
+05-09-2022:
+	//Idempotent!// is what RESTful APIs are supposed to be! (dear god do I forget this a lot)
