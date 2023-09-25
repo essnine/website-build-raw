@@ -7,6 +7,10 @@
  [ -e _resources ] && rm -rf *
  cd ..
  zim --export \
-   --format=html --template=Print \
-   --output=./build --index-page=sitemap \
-   src
+   --format=html --template=scripts/templates/zim-essnine-theme.html \
+   --output=./../website --index-page=sitemap src/
+
+  cd ../../website
+  git add .
+  git commit -m "Automated website build"
+  git push origin main
